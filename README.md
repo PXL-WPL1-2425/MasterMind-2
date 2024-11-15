@@ -1,10 +1,12 @@
 # Uitbreiding Mastermind
 
-De eerste versie van het spel is gevalideerd door de spelcommissie en we hebben een GO gekregen om dit verder te ontwikkelen.
+![](./media/image1.png)
+
+De eerste aanpassingen van het spel zijn ondertussen juist gebeurd, tijd om hierop verder te bouwen.
 
 **Spelverloop:**
 
-Momenteel is het niet mogelijk om het spel echt te spelen, want er is telkens maar 1 poging mogelijk. Dit gaan we uitbreiden zodat de speler maximaal 10 pogingen heeft om de code te raden. Na 10 pogingen stopt het spel automatisch en wordt de code getoond. Elke poging wordt ook bijgehouden in een lijst, zodat de speler uit zijn "foute" gokken kan leren.
+We hebben ervoor gezorgd dat de speler meerdere pogingen kan doen om de code te raden. We gaan dit beperken tot maximaal 10, dus na 10 pogingen stopt het spel automatisch en wordt de code getoond. Elke poging wordt ook bijgehouden in een lijst, zodat de speler uit zijn "foute" gokken kan leren.
 
 Na elke poging wordt er ook een score bijgehouden. Hoewel we in de basisversie al punten hadden voorzien, hebben we hier verder nog niets mee gedaan. Maar de spelcommissie heeft hierover verder nagedacht en wil volgende wijziging implementeren:
 Er zijn 100 punten te verdienen. Telkens wanneer de speler een poging doet, worden strafpunten afgetrokken. Wanneer men de code dus van de eerste keer juist raadt, krijgt men 0 strafpunten en wordt de maximale score van 100 punten gehaald.
