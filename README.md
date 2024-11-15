@@ -1,7 +1,5 @@
 # Uitbreiding Mastermind
 
-![](./media/image1.png)
-
 De eerste versie van het spel is gevalideerd door de spelcommissie en we hebben een GO gekregen om dit verder te ontwikkelen.
 
 **Spelverloop:**
