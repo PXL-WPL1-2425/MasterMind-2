@@ -1,7 +1,5 @@
 # Uitbreiding Mastermind
 
-![](./media/image1.png)
-
 De eerste aanpassingen van het spel zijn ondertussen juist gebeurd, tijd om hierop verder te bouwen.
 
 **Spelverloop:**
